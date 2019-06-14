@@ -1,6 +1,9 @@
 body {
     font-family: 'Rubik', serif;
 }
+.label-header {
+    color: chocolate
+}
 
 .card {
     margin: auto
