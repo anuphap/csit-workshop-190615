@@ -1,5 +1,5 @@
 # This is workshop project
-### for leaning about Git.
+### for teaching about Git.
 
 
 #### 2018/06/15
